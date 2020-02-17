@@ -7,4 +7,14 @@ It is written in a language called ***markdown***. If you want to know more, [cl
 * and so on
    * is this a bullet within a bullet?
 
-* [] todo item
+* [ ] todo item
+
+# header
+
+## some other level of header
+
+### I wonder how far this goes
+
+#### enough?
+
+##### I can't remember how many levels there are
