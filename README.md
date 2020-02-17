@@ -9,6 +9,8 @@ It is written in a language called ***markdown***. If you want to know more, [cl
 
 * [ ] todo item
 
+* [x] checked checkbox?
+
 # header
 
 ## some other level of header
